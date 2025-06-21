@@ -129,4 +129,4 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support, email your-email@example.com or create an issue in the repository. 
+For support, niveshdokania.29@gmail.com or create an issue in the repository. 
